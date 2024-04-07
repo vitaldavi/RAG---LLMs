@@ -1,2 +1,2 @@
-# RAG---LLMs
-Aplicações de Retrieval-Augmented Generation usando Large Language Models (LLMs)
+# RAG w/ LLMs
+Retrieval-Augmented Generation applications in Large Language Models (LLMs)
